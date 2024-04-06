@@ -1,1 +1,1 @@
-worker: python3 H1HHIH.py
+worker: python3 ICTS_930.py
